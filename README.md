@@ -27,11 +27,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MustafaDurgunn&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MustafaDurgunn&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaDurgunn&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaDurgunn&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <img align="right" height="150" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp"  />
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MustafaDurgunn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img align="right" height="150" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp"  />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
