@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>Hi, My Name is Mustafa<br><br>🌱 I’m currently learning Python, Javascript<br><br>💬 Ask me about Javascript, React, Django, Html, Css<br><br>📫 How to reach me <br>mustafa.tdurgun@gmail.com
+💫 Hi, My Name is Mustafa<br><br>🌱 I’m currently learning Python, Javascript<br><br>💬 Ask me about Javascript, React, Django, Html, Css<br><br>📫 How to reach me <br>mustafa.tdurgun@gmail.com
 
 
 ## 🌐 Socials:
